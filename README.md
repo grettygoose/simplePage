@@ -1,3 +1,3 @@
 # simplePage
 
-##Project for interns
+# Project for interns
