@@ -1,3 +1,3 @@
-# simplePage
+# Summer Intern Series
 
-# Project for interns
+###### Programming (HTML/CSS/GitHub) 101
