@@ -1,3 +1,3 @@
-# Summer Intern Series
+### Summer Intern Series
 
 ###### Programming (HTML/CSS/GitHub) 101
